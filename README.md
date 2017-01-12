@@ -12,7 +12,10 @@ This project will begin as a UX project, mapping Scotts journey as he completes 
 
 ***
 
-Meeting Notes
+### Meeting Notes
+
 [1-12-2017](https://docs.google.com/document/d/14Nm5El-pI-Q93iQZcr3UPixIdDU7GfKVJOiVM2v5uPw/edit?usp=sharing)
 
+
+### Next Steps
 Next meeting will take places after Jan 28th, where Project lead and Uxers will shadow Scott to map his current process. 
