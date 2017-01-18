@@ -9,7 +9,7 @@ Our goal is to create a solution that will have 2 outcomes:
 1. Make Scott's job easier, not harder. 
 2. Output data in an open format to the Data Portal to be used in a map solution avalible to the public. 
 
-This project will begin as a UX project, mapping Scotts journey as he completes his job to understand his process and paint points. Then we will prototype solutions and work with Scott in a co-creation process to ensure the final product is something that meets Scott's needs. 
+This project will begin as a UX project, mapping Scotts journey as he completes his job to understand his process and pain points. Then we will prototype solutions and work with Scott in a co-creation process to ensure the final product is something that meets Scott's needs. 
 
 ***
 
