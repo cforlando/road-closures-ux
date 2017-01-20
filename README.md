@@ -2,14 +2,14 @@
 ## Project Lead: Cassie Wilcox @csndra0504
 ## Stakeholders: Scott Walker, Natalie Bednarz - City of Orlando
 
-Road Closures project is UX project exploring the current user experience of Scott Walker, a city employee as he creates the documents and uploads the information to the public concerning road closures with in the Orlando city limits. 
+Road Closures project is a UX project exploring the current user experience of Scott Walker, a city employee as he creates the documents and uploads the information to the public concerning road closures with in the Orlando city limits. 
 
-Our goal is to create a solution that will have 2 outcomes: 
+Our goal is to create a solution that will have 2 outcomes:
 
-1. Make Scott's job easier, not harder. 
-2. Output data in an open format to the Data Portal to be used in a map solution avalible to the public. 
+1. Make Scott's job easier, not harder.
+2. Output data in an open format to the Data Portal to be used in a map solution avalible to the public.
 
-This project will begin as a UX project, mapping Scotts journey as he completes his job to understand his process and pain points. Then we will prototype solutions and work with Scott in a co-creation process to ensure the final product is something that meets Scott's needs. 
+This project will begin as a UX project, mapping Scotts journey as he completes his job to understand his process and pain points. Then we will prototype solutions and work with Scott in a co-creation process to ensure the final product is something that meets Scott's needs.
 
 ***
 
@@ -19,4 +19,4 @@ This project will begin as a UX project, mapping Scotts journey as he completes 
 
 
 ### Next Steps
-Next meeting will take places after Jan 28th, where Project lead and Uxers will shadow Scott to map his current process. 
+Next meeting will take places after Jan 28th, where Project lead and Uxers will shadow Scott to map his current process.
