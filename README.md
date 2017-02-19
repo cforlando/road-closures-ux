@@ -32,7 +32,7 @@ Next meeting will take places after Jan 28th, where Project lead and UXers will 
 
 ### Target Roadmap
 Team velocity is currently unknown. The dates below are subject to change.
-* **Feb:** Shadow Scott Walker at City Hall
+* **Feb:** Shadow Scott Walker at City Hall (Scheduled: Feb 23)
 * **March:** Journey Map / User Persona
 * **April:** Solution Ideation / Prototypes Iteration
 * **May:** Initial User Test(s)
