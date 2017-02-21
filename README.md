@@ -38,7 +38,7 @@ Team velocity is currently unknown. The dates below are subject to change.
 * **May:** Initial User Test(s)
 
 ###UX Resources
-* [Orlando Fence Permit Journey Map](https://drive.google.com/drive/u/0/folders/0B2c8YrMvp6h1SUVQMGxzNTFLRms) (by Matt Lavoie & team)
+* [Orlando Fence Permit Journey Map](https://drive.google.com/open?id=0B2c8YrMvp6h1V2lCaWM1QW5MdlU) (by Matt Lavoie & team)
 
 ### Open Questions
 
