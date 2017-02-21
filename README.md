@@ -18,7 +18,7 @@ Here are a few things you can do to get oriented if you are interested in contri
 
 * Join the #road-event-app channel in the [Code for Orlando Slack](https://codefororlando.herokuapp.com/)
 * Review current [Orlando Road Closures Report](http://www.cityoforlando.net/roadclosure/)
-* Review [Open511 Road Event Data Standard](http://www.cityoforlando.net/roadclosure/)
+* Review [Open511 Road Event Data Standard](http://www.open511.org/documentation/1.0/root.html)
 * Review Meeting Notes (below)
 
 ### Meeting Notes
@@ -53,4 +53,4 @@ Answers will be added as they are gathered. :)
 ###Research Needed:
 
 * How does Google Maps use/present road closure information?
-* How does info from current [Road Closure Report](http://www.cityoforlando.net/roadclosure/) compare to [Open511](http://www.cityoforlando.net/roadclosure/) standard?
+* How does info from current [Road Closure Report](http://www.cityoforlando.net/roadclosure/) compare to [Open511](http://www.open511.org/) standard?
