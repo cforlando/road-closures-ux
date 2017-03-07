@@ -25,15 +25,16 @@ Here are a few things you can do to get oriented if you are interested in contri
 ### Meeting Notes
 
 + [Notes from First Meeting with Scott Walker Jan-12-2017](https://docs.google.com/document/d/14Nm5El-pI-Q93iQZcr3UPixIdDU7GfKVJOiVM2v5uPw/edit?usp=sharing)
-
++ [Notes from "Shadow" Meeting with Scott Walker Feb-23-2017](https://docs.google.com/document/d/1JV6v_skqq344i2kqKwC8ZAnq4z-eJafa9Yh3HOtDc-E/edit?usp=sharing)
 
 ### Next Steps
-
-Next meeting will take places after Jan 28th, where Project lead and UXers will shadow Scott to map his current process. 
++ Develop Scott Walker User Persona
++ Develop Journey Map of Scott's Process
++ Consider quick win: Image banner to highlight road closure map (improve page views)
 
 ### Target Roadmap
 Team velocity is currently unknown. The dates below are subject to change.
-* **Feb:** Shadow Scott Walker at City Hall (Scheduled: Feb 23)
+* ~~**Feb:** Shadow Scott Walker at City Hall (COMPLETE)~~
 * **March:** Journey Map / User Persona
 * **April:** Solution Ideation / Prototypes Iteration
 * **May:** Initial User Test(s)
@@ -46,13 +47,20 @@ Team velocity is currently unknown. The dates below are subject to change.
 Answers will be added as they are gathered. :)
 
 * What geographical region is Scott Walker responsible for?
+  * City of Orlando
 * How long does his process currently take? How long will the shadowing session need to last?
+    * See [these Meeting Notes](https://docs.google.com/document/d/1JV6v_skqq344i2kqKwC8ZAnq4z-eJafa9Yh3HOtDc-E/edit?usp=sharing)
 * How many people can attend the shadowing session?
+    * Erin Denton, Matt Lavoie, and Cassandra Wilcox attended
 * What information can we / can't we record during the shadowing session? Photos?
+    * We were unable to capture video, but Scott allowed us to take a photo of him :)
 * How do 18A Special Events Permits come to Scott Walker? How are they processed?
+    * [Online Permit Application](https://app.mygov.us/task/city/cityhome.php?cityname=367)
+    * See [these Meeting Notes](https://docs.google.com/document/d/1JV6v_skqq344i2kqKwC8ZAnq4z-eJafa9Yh3HOtDc-E/edit?usp=sharing)
 * Is any of the "internal" info related to road closures (that is not published publicly) protected/private?
 * Where would the app be hosted? Who will pay for hosting? What security measures are needed?
 * How technically proficient is our target user? Does he have a smart phone?
+    * See [these Meeting Notes](https://docs.google.com/document/d/1JV6v_skqq344i2kqKwC8ZAnq4z-eJafa9Yh3HOtDc-E/edit?usp=sharing)
 
 ###Research Needed:
 
