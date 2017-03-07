@@ -26,6 +26,7 @@ Here are a few things you can do to get oriented if you are interested in contri
 
 + [Notes from First Meeting with Scott Walker Jan-12-2017](https://docs.google.com/document/d/14Nm5El-pI-Q93iQZcr3UPixIdDU7GfKVJOiVM2v5uPw/edit?usp=sharing)
 + [Notes from "Shadow" Meeting with Scott Walker Feb-23-2017](https://docs.google.com/document/d/1JV6v_skqq344i2kqKwC8ZAnq4z-eJafa9Yh3HOtDc-E/edit?usp=sharing)
++ [Scott's Process Flow Chart from "Shadow" Meeting with Scott Walker Feb-23-2017](https://docs.google.com/drawings/d/1SdLirgw5QuIlh198lMYEivAQ0suQsMSiWO5vP6JSs30/edit)
 
 ### Next Steps
 + Develop Scott Walker User Persona
